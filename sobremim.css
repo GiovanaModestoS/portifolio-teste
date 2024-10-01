@@ -1,0 +1,17 @@
+*{
+   
+   font-family: arial;
+   background-color: blanchedalmond;
+   
+}
+.texto{
+ text-align: center;
+ background-color:burlywood;
+ }
+
+#img{
+    background-image: none;
+    width:100%;
+    height: 1000px;
+}
+
